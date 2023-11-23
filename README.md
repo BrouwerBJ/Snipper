@@ -1,5 +1,6 @@
 Assignments for Sigrid Workshop
 ==========
+Nu met demo
 Dit is versie 2
 This repository is part of the Sigrid training.<br />
 You will need access to Sigrid to complete this training.<br />
